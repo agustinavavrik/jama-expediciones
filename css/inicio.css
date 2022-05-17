@@ -688,7 +688,7 @@ position: relative;
        
 
 
-
+                                                           /*MEDIA QUARIES 1200PX PARA PC PAGINA DE INICIO */
 
 @media screen and (max-width: 1199px) {
 
@@ -1354,9 +1354,9 @@ position: relative;
 
 
 }
+                                                            /*MEDIA QUARIES 600PX PARA TABLET PAGINA DE INICIO */
 
-
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 599px) {
 
     .body {
 
@@ -2035,6 +2035,8 @@ position: relative;
 
 }
 
+                                                                /*MEDIA QUARIES 320PX PARA ANDROID PAGINA DE INICIO */
+
 
 @media screen and (max-width: 319px) {
     .body {
@@ -2707,7 +2709,7 @@ position: relative;
 
 
 
-
+                                                                      /*PAGINA DE CALENDARIO ORIGINAL*/
 
 
 
@@ -3562,7 +3564,7 @@ padding-left: 7px;
 
 
 
-/*MEDIA QUARIES DE PAGINA DE CALENDARIO*/
+                                                  /*MEDIA QUARIES DE PAGINA DE CALENDARIO*/
 
 
 @media screen and (max-width: 1199px) {
